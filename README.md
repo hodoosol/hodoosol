@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20dasol👋&fontSize=70&fontAlign=50)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayo_pig&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mayo_pig)](https://solved.ac/mayo_pig/)
