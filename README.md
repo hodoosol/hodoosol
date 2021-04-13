@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mayo_pig)](https://solved.ac/mayo_pig/)
-
-
