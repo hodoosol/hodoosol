@@ -1,4 +1,4 @@
-### *Our Day Will Come*
+### *Even miracles take a little time*
 
 <!--
 **hodoosol/hodoosol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
