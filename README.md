@@ -1,4 +1,4 @@
-### *Even miracles take a little time*
+
 
 <!--
 **mayosol/mayosol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
